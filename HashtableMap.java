@@ -1,9 +1,4 @@
-// --== CS400 Project One File Header ==--
-// Name: Trevor Johnson
-// CSL Username: trevorj
-// Email: tmjohnson32@wisc.edu
-// Lecture #: 002
-// Notes to Grader: <any optional extra notes to your grader>
+
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
 
