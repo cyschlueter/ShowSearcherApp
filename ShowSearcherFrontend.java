@@ -1,9 +1,3 @@
-// --== CS400 Project One File Header ==--
-// Name: <Dennis Leung>
-// CSL Username: <dleung>
-// Email: <dhleung@wisc.edu>
-// Lecture #: <002 @1:00pm>
-// Notes to Grader: <None>
 
 import java.util.List;
 import java.util.Scanner;
@@ -12,7 +6,6 @@ import java.util.Scanner;
  * This method drives the entire read, eval, print loop (repl) for the
  * Song Search App.  This loop will continue to run until the user
  * explicitly enters the quit command.
- * @author dhleung
  */
 public class ShowSearcherFrontend implements IShowSearcherFrontend{
 
