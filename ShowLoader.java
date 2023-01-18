@@ -4,13 +4,6 @@ import java.util.List;
 import java.util.Scanner;
 import java.io.File;
 
-//--== CS400 Project One File Header ==--
-//Name: Cinthya Nguyen
-//CSL Username: cinthya
-//Email: 37cnguyen@wisc.edu
-//Lecture #: 002 @1:00pm
-//Notes to Grader: N/A
-
 /**
  * Loads a list of shows from a specified CSV source file.
  * The following csv columns are used to load these show attributes:
@@ -22,7 +15,6 @@ import java.io.File;
  *   - Prime Video: 1 = available on this service, otherwise 0
  *   - Disney+: 1 = available on this service, otherwise 0
  *   
- * @author Cinthya Nguyen
  */
 public class ShowLoader implements IShowLoader {
 
