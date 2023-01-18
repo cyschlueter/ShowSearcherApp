@@ -3,7 +3,6 @@ import java.util.*;
 /**
  * This class keeps track of many shows in a database comprised of two hash tables. One table hashes shows by title words
  * and the other hashes shows by the year of their release.
- * @author 19208
  *
  */
 public class ShowSearcherBackend implements IShowSearcherBackend {
