@@ -1,9 +1,4 @@
-// --== CS400 Project One File Header ==--
-// Name: Cinthya Nguyen
-// CSL Username: cinthya
-// Email: 37cnguyen@wisc.edu
-// Lecture #: 002 @1:00pm
-// Notes to Grader: N/A
+
 
 /**
  * Represents a single streaming show object that can be stored, sorted, and searched for based on
