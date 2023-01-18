@@ -9,7 +9,6 @@
  * Represents a single streaming show object that can be stored, sorted, and searched for based on
  * these accessors below.
  * 
- * @author Cinthya Nguyen
  */
 public class Show implements IShow {
 
